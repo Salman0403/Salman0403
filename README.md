@@ -1,4 +1,22 @@
-<h2> Hi there 👋, I'm Salman </h2>
+<h2> Hi there 👋 </h2>
+<br/>
+<p>I'm Muhammad Salman, a passionate JavaScript Software Engineer dedicated to crafting innovative solutions that bridge the gap between imagination and reality with clean and efficient code.</p>
+
+<img align="right" alt="GIF" src="[https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGVsdWQ3NXh5eHlsdmhyM2t5c3lkdnMxc2tja2lyaGRsM3d5M3hyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c4u2gld3Or69i/giphy.gif)" width="360px"/>
+
+<h3> 👨🏻•💻 About Me </h3>
+
+- 🔭 &nbsp; I’m currently working on MERN
+
+- 💬 &nbsp;Love to talk about best practices and efficent code.
+
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+
+- 🎓 &nbsp; Graduated in ERP Softwares but start my profession in coading.
+
+- 🌱 &nbsp; Learning System Architecture and Operating Systems.
+
+- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
 
 
 <p><em>Research & Development Engineer at <a href="https://tekclansolutions.com/">Tekclan</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
