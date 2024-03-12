@@ -2,9 +2,8 @@
 <br/>
 <p>I'm Muhammad Salman, a passionate JavaScript Software Engineer dedicated to crafting innovative solutions that bridge the gap between imagination and reality with clean and efficient code.</p>
 
-<img align="right" alt="GIF" src="[https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGVsdWQ3NXh5eHlsdmhyM2t5c3lkdnMxc2tja2lyaGRsM3d5M3hyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c4u2gld3Or69i/giphy.gif)" width="360px"/>
-
-<h3> 👨🏻•💻 About Me </h3>
+<img width = "35%" align="right" alt="GIF" height="300px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+ 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently working on MERN
 
@@ -18,29 +17,29 @@
 
 - ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
 
+<br/>
 
-<p><em>Research & Development Engineer at <a href="https://tekclansolutions.com/">Tekclan</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
-<img width = "35%" align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/l2R06kO1jE5hNHub6/giphy.gif" />
+### 🔨 Languages and Tools:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+
+<br/>
+
+### 📊 Github Stats
+<a href="https://github.com/Salman0403">
+<img height="180em" alt="my stats" src="https://github-readme-stats.vercel.app/api?username=Salman0403&show_icons=true&theme=tokyonight"/>
+<img height="180em" alt="my stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salman0403&layout=compact"/>
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Salman0403&theme=tokyonight&hide_border=false"/>
+</a>
+
+<br/>
+
+<br/>
 
 
-<div align="left">
-
-<i>Let's Connect:</i><br>
-
-<a href="https://www.linkedin.com/in/saravananselvamohan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://twitter.com/__Saravanan" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white" alt="Twitter"></a>
-<a href="https://www.instagram.com/saravananselvamohan/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/11673591/saravanan-selvamohan?tab=profile)](https://stackoverflow.com/users/11673591/saravanan-selvamohan?tab=profile)
-
-</div>
-
-![github stats](https://github-readme-stats.vercel.app/api?username=saravananselvamohan&show_icons=true)
-
-**Languages and Tools:** 
-<p align="left">
-  <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50"><img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="50"><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
-  
+### 📫 How to reach me
+<p>
+  <a href="https://github.com/Salman0403" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+  <a href="https://www.linkedin.com/in/muhammad-salman-75340014b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href = "mailto: muhammadsalman0403@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-⭐️ From [saravananselvamohan](https://github.com/saravananselvamohan)
