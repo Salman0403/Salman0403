@@ -1,20 +1,29 @@
-<h2> Hi there 👋 </h2>
-<p>I'm Muhammad Salman, a passionate JavaScript Software Engineer dedicated to crafting innovative solutions that bridge the gap between imagination and reality.</p>
+<h1 align="center"> Hello, folks!
+<img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30">
+</h1>
+<br/>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
+<br/>
+<h3 align="center">I'm Muhammad Salman, a passionate JavaScript Software Engineer dedicated to crafting innovative solutions that bridge the gap between imagination and reality.</h3>
+<br/>
+<img width = "35%" align="right" alt="GIF" height="300px" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
 
-<img width = "35%" align="right" alt="GIF" height="300px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
- 🧐 More About Me:
+<br/>
+
+<h3>💫 More About Me:</h3>
+ 
 
 - 🔭 &nbsp; I’m currently working on MERN Stack
 
-- 💬 &nbsp;Love to talk about best practices and efficent code.
+- 💬 &nbsp;Love to talk about best practices and code efficiency.
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring new technologies, developing software solutions and quick hacks.
 
 - 🎓 &nbsp; Graduated in ERP Softwares but start my profession in coading.
 
 - 🌱 &nbsp; Learning System Architecture and Operating Systems.
 
-- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
+- ✍️ &nbsp; Currently working on some webapps.
 
 <br/>
 
@@ -43,5 +52,5 @@
 </p>
 
 <h3>⚡ Fun facts</h3>
-you can either found me doing coding 💻 or found me on my bike exploring new place 🚲
+You can either find me immersed in coding 💻 or discover me on my bike, exploring new places 🚲
 
