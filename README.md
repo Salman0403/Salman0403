@@ -1,11 +1,10 @@
 <h2> Hi there 👋 </h2>
-<br/>
-<p>I'm Muhammad Salman, a passionate JavaScript Software Engineer dedicated to crafting innovative solutions that bridge the gap between imagination and reality with clean and efficient code.</p>
+<p>I'm Muhammad Salman, a passionate JavaScript Software Engineer dedicated to crafting innovative solutions that bridge the gap between imagination and reality.</p>
 
 <img width = "35%" align="right" alt="GIF" height="300px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
  🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on MERN
+- 🔭 &nbsp; I’m currently working on MERN Stack
 
 - 💬 &nbsp;Love to talk about best practices and efficent code.
 
@@ -27,7 +26,7 @@
 ### 📊 Github Stats
 <a href="https://github.com/Salman0403">
 <img height="180em" alt="my stats" src="https://github-readme-stats.vercel.app/api?username=Salman0403&show_icons=true&theme=tokyonight"/>
-<img height="180em" alt="my stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salman0403&layout=compact"/>
+<img height="180em" alt="my stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salman0403&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/><br/>
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Salman0403&theme=tokyonight&hide_border=false"/>
 </a>
 
@@ -42,4 +41,7 @@
   <a href="https://www.linkedin.com/in/muhammad-salman-75340014b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href = "mailto: muhammadsalman0403@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
+<h3>⚡ Fun facts</h3>
+you can either found me doing coding 💻 or found me on my bike exploring new place 🚲
 
