@@ -23,7 +23,7 @@
 
 - 🌱 &nbsp; Learning System Architecture and Operating Systems.
 
-- ✍️ &nbsp; Currently working on some webapps.
+- ✍️ &nbsp; Currently working on two webapps.
 
 <br/>
 
