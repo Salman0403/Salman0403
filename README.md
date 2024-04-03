@@ -52,5 +52,5 @@
 </p>
 
 <h3>⚡ Fun facts</h3>
-You can either find me immersed in coding 💻 or discover me on my bike, exploring new places 🚲
+Whether I'm lost in lines of code 💻 or exploring uncharted territory on my bike 🚲, you'll always find me passionately engaged in the pursuit of discovery and innovation.
 
