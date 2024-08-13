@@ -19,7 +19,7 @@
 
 - 🤔 &nbsp; Exploring new technologies, developing software solutions and quick hacks.
 
-- 🎓 &nbsp; Graduated in ERP Softwares but start my profession in coading.
+- 🎓 &nbsp; Graduated in ERP Softwares but start my profession in coding.
 
 - 🌱 &nbsp; Learning System Architecture and Operating Systems.
 
